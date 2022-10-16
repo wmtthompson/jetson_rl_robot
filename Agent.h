@@ -1,8 +1,8 @@
-/*
- * Agent.h
+/**
+ * @file Agent.h
  *
  *  Created on: Apr 20, 2022
- *      Author: william
+ *      Author: Wm. T. Thompson
  */
 
 
@@ -10,7 +10,7 @@
 #ifndef AGENT_H_
 #define AGENT_H_
 
-#include "common.h"
+#include "Common.h"
 #include <random>
 
 enum CHOOSE_STATE {RANDOM, BEST};

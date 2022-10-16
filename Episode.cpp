@@ -2,7 +2,7 @@
  * Episode.cpp
  *
  *  Created on: Apr 20, 2022
- *      Author: william
+ *      Author: Wm. T. Thompson
  */
 
 #include "Episode.h"

@@ -2,7 +2,7 @@
  * Simulator.cpp
  *
  *  Created on: Apr 21, 2022
- *      Author: william
+ *      Author: Wm. T. Thompson
  */
 
 #include "Simulator.h"

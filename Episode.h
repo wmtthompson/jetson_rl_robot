@@ -2,14 +2,14 @@
  * Episode.h
  *
  *  Created on: Apr 20, 2022
- *      Author: william
+ *      Author: Wm. T. Thompson
  */
 
 #ifndef EPISODE_H_
 #define EPISODE_H_
 
 
-#include "common.h"
+#include "Common.h"
 class StateActionTable;
 
 class Agent;

@@ -2,14 +2,14 @@
  * StateActionTable.h
  *
  *  Created on: Apr 25, 2022
- *      Author: william
+ *      Author: Wm. T. Thompson
  */
 
 #ifndef STATEACTIONTABLE_H_
 #define STATEACTIONTABLE_H_
 
 
-#include "common.h"
+#include "Common.h"
 
 class StateActionTable {
 public:

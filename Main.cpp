@@ -1,8 +1,17 @@
+/**
+ *  @file Main.cpp
+ *
+ *  @brief Main entry point for Jetson Reinforcement Learning Robot Program.
+ *
+ *  Created on: Apr 22, 2022
+ *      Author: Wm. T. Thompson
+ */
+
 #include <iostream>
 #include <sys/ioctl.h>
 #include <unistd.h>
 #include <string.h>
-#include "common.h"
+#include "Common.h"
 #include "i2c.h"
 #include "Episode.h"
 #include "Agent.h"

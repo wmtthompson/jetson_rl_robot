@@ -2,13 +2,13 @@
  * Simulator.h
  *
  *  Created on: Apr 21, 2022
- *      Author: william
+ *      Author: Wm. T. Thompson
  */
 
 #ifndef SIMULATOR_H_
 #define SIMULATOR_H_
 
-#include "common.h"
+#include "Common.h"
 #include "Agent.h"
 #include "Episode.h"
 
